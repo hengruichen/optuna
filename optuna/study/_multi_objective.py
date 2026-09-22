@@ -169,3 +169,4 @@ def _normalize_value(value: Optional[float], direction: StudyDirection) -> float
         value = -value
 
     return value
+
